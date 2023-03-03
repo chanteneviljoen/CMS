@@ -1,7 +1,5 @@
 #Journal
-
 ##Week 2 Prac 01 
-
 ###Learning Activities 
 This practical jumped back to basics. I had to use some resources like W3Schools for a refresher on HTML code and how to use code to present the website content in a responsive and professional manner. I also used GitHub pages for the first time and learned how to use the different features of GitHub more effectively. Online resources helped me gain inspiration for my website as well by looking at different layouts and content types, which helped me determine the best fit for the purpose of the website.
 
