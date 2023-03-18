@@ -7,10 +7,10 @@ This practical jumped back to basics. I had to use some resources like W3Schools
 
  ## Resources/Links
 
-https://www.wix.com/website/templates/html/all/4
-https://pages.github.com/
-https://www.w3schools.com/html/
-https://www.markdownguide.org/cheat-sheet/
+https://www.wix.com/website/templates/html/all/4  
+https://pages.github.com/  
+https://www.w3schools.com/html/  
+https://www.markdownguide.org/cheat-sheet/  
 
 
 ## Estimated Hours**
