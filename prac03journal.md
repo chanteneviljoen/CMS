@@ -12,7 +12,7 @@ https://lightsail.aws.amazon.com/ls/docs/en_us/articles/lightsail-how-to-create-
 https://www.google.com/search?q=good+website+design+tips&newwindow=1&rlz=1C1CHZN_enAU939AU939&sxsrf=AJOqlzXTmL6_080GSqxaNxYUHX0PeF_ylA:1679290428840&source=lnms&tbm=vid&sa=X&ved=2ahUKEwidhfGr5On9AhWgsFYBHffFC8cQ_AUoAnoECAEQBA&biw=2400&bih=1161&dpr=0.8#fpstate=ive&vld=cid:f7a8434f,vid:06jf_fh3JVs  
 https://sendpulse.com/support/glossary/startup  
 
-## Estimated Hours**
+## Estimated Hours
 
 Approximately 5 hours.
 
