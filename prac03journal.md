@@ -1,15 +1,16 @@
 # Week 4 Prac 03
 
 ## Learning Activities
-
+This week is used Amazon Lightsail to create a VPS instance to create a WordPress website. I was able to gain a better understanding of how to set up a virtual private server which allowed me to create a virtual environment which is hosted by Lightsail. This enabled me to create a website using a CMS and host it successfully with its own domain. I learnt how to register my own domain for the first time, correcting my error from last week, which provided my website a unique name that I could link to my site using Lightsail. I accomplished this by creating a DNS zone, routing traffic for the domain name to my instance using a static IP address assigned to my website. Using my VPS, I could then use WordPress to manipulate the content of the website and create a customised theme with neatly laid out content with a cohesive structure suitable to customers interested in the startup. I made use of resources to gain a better understanding of marketing techniques which include creating an effective first impression with a simple design that is easy to read, understand and navigate. I gained a better understanding of what a startup is as it is a young company established by an entrepreneur that aims at innovation, which allowed me to design the website to highlight the product rather than the company information. Additionally, I was able participate in a group discussion conducting informal interview which helped me gain insight to my peers. I could gain insight into their personality, their study methods and their work ethics to form my own expectations of a fellow team member that I would want to complete an assignment with.
 
 
  ## Resources/Links
 
-https://lightsail.aws.amazon.com/ls/docs/en_us/articles/amazon-lightsail-quick-start-guide-joomla#amazon-lightsail-map-your-domain-to-your-instance-joomla  
-https://lightsail.aws.amazon.com/ls/docs/en_us/articles/log-in-to-your-bitnami-application-running-on-amazon-lightsail  
 https://aws.amazon.com/getting-started/hands-on/launch-a-wordpress-website/  
-
+https://lightsail.aws.amazon.com/ls/docs/en_us/articles/amazon-lightsail-domain-registration  
+https://lightsail.aws.amazon.com/ls/docs/en_us/articles/lightsail-how-to-create-dns-entry  
+https://www.google.com/search?q=good+website+design+tips&newwindow=1&rlz=1C1CHZN_enAU939AU939&sxsrf=AJOqlzXTmL6_080GSqxaNxYUHX0PeF_ylA:1679290428840&source=lnms&tbm=vid&sa=X&ved=2ahUKEwidhfGr5On9AhWgsFYBHffFC8cQ_AUoAnoECAEQBA&biw=2400&bih=1161&dpr=0.8#fpstate=ive&vld=cid:f7a8434f,vid:06jf_fh3JVs  
+https://sendpulse.com/support/glossary/startup  
 
 ## Estimated Hours**
 
@@ -17,8 +18,8 @@ Approximately 5 hours.
 
 
 ## Content Insights
-
+Creating a VPS allows developers to use “virtualisation” to divide one server into multiple virtual servers, allowing one machine to operate as many. This allows me to use the resources and the whole operating system with other developers in the future undivided. Learning how to host a dynamic website helped me form a better understanding that a VPS provide a virtual server environment to better manage a website when designing the content and hosting it online. I was able to better understand the process of setting up the site with Lightsail and how to set up a domain. I gained a better understanding of how to use WordPress and manipulating the theme and content of the website with global themes, making it easier to retain cohesiveness and perform maintenance tasks more time efficiently. The VPS can also sustain the workflow without disturbing the operations like crashing the website, and changes can also be managed easier as the environments can sustain multiple users. The virtual environment can also run automated testing kits that can integrate version control to track the changes without affecting the production area. Conducting the informal interviews made me realise that a lot of my peers have the same mutual understanding of what they expect from a team member when complete an assignment. My peers are all willing to work collaboratively online or in person as they agreed that team members are expected to complete delegated tasks of equal quality and quantity as others. The interview process also helped me gauge a sense of personality in the sense of who would be more dominant and who would be more reserved, showing that only a few of students like to take charge and voice their ideas. I aspire to work with more open-minded people who like to speak their thoughts and that can pose a challenge as proven by my experience in the activity in the practical class.
 
 
 ## Career/Employability/Learning Insights
-
+Learning how to use a CMS and hosting it with a VPS, allows me to make dynamic website that are easy to maintain. Clients are eager to get their websites up and running but when it comes to maintaining it, they loose interest. In the industry, I would be able to show the client how to maintain the website by logging into the site as an admin and create content easier. They would be able to make simple updates without having to hard code anything, and the design would already be pre-set so managing the site would be straight forward. This process can maintain good customer rapport by providing excelling solutions that are easy to manage by a non-tech user. The website would also provide a dynamic interface hosted online so the business would be able to profit from their website and gain better exposure with readable sites that are design for the purpose of promoting a business. I can also pose as being more employable by showing people skills when working in a team, it allows me to communicate and be open-minded without hesitation. It shows to an employer that I can contribute to and facilitate informed discussions by using appropriate interactions with a range of different personalities. 
