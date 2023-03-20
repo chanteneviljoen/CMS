@@ -12,7 +12,7 @@ https://lightsail.aws.amazon.com/ls/docs/en_us/articles/log-in-to-your-bitnami-a
 https://aws.amazon.com/getting-started/hands-on/launch-a-wordpress-website/  
 
 
-## Estimated Hours**
+## Estimated Hours
 
 Approximately 5 hours.
 
