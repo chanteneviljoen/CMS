@@ -34,7 +34,7 @@ Overall, the spacing effect provided me with insights into how I can structure l
 
 
 ## Career/Employability/Learning Insights
-While it is possible to test this theory with only one person, it may not be as robust as a larger study with more participants. This exercise did help me reflect on how I learn and how to optimize my learning outcomes.
+While it is possible to test this theory with only one person, it may not be as robust as a larger study with more participants. This exercise did help me reflect on how I learn and how to optimize my learning outcomes. I gained more out of the smaller and more frequent study sessions as what I previosly gained out of just doing it all in one session. I found that I was able to absord the content better and I felt motivated to do 1-2 hour session rather than an entire day on one subject. I found that I didn't get bored or frustrated when only doing a little bit at a time, which also felt empowering, as it was managable to do 2 hours of content at a time and not 6 hours in one go.
 
 The spacing effect theory can help individuals better retain and apply new skills and knowledge. By spacing out learning over time, individuals can reinforce their memory traces and reduce the likelihood of forgetting important information. This can be especially useful in jobs that require ongoing learning and skill development, like in the IT industry, where technology is always changing and developing.
 
