@@ -24,8 +24,8 @@ Approximately 3 hours.
 
 ## Content Insights
 Sass enables developers to write more efficient and organized CSS code by allowing the use of variables, nesting, mixins, and extend/inheritance. This makes it easier to maintain and update CSS code, which can save time and effort in the long run. Additionally, Sass allows for easier and more flexible customization of CSS styles. With the use of variables and mixins, developers can create reusable style components that can be easily modified and applied to different parts of a website.
+
 Sass can help improve website performance by reducing the size of CSS files. The use of Sass's nesting and extend/inheritance features can reduce the need for repeated CSS rules, resulting in smaller file sizes and faster page load times.
-Using Sass can help streamline the development process, improve website performance, and enhance the user experience.
 
 ## Career/Employability/Learning Insights
 Using Sass can provide a range of insights and benefits for career, employability, and learning in web development. Firstly, mastering Sass can be a valuable skill for web developers to have in their toolkit, making them more attractive to potential employers. Additionally, because Sass allows developers to write more organized and efficient code, it can help them work more efficiently and effectively, which can improve job performance and productivity.
